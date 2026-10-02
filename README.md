@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Supun Vidarshana 👋</h1>
-<h3 align="center">Full-Stack Developer Intern | Undergraduate at SLIIT</h3>
+<h3 align="center">Full-Stack Developer | Undergraduate at SLIIT</h3>
 
 <p align="center">
   I'm a 3rd-year AI Engineering undergraduate and full-stack developer with a passion for building robust web APIs, cross-platform mobile apps, and intelligent AI/RAG systems.
